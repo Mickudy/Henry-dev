@@ -18,8 +18,8 @@ Soy programador web junior y actualmente hago prácticas como **Programador Web 
 ## 🚀 Proyectos destacados
 
 - **[Wannapop](https://github.com/TU_USUARIO/wannapop)** – Aplicación web de compraventa de segunda mano desarrollada con Flask, Flask-SQLAlchemy y SQLite.
-- **[Nombre del proyecto 2](https://github.com/TU_USUARIO/proyecto-2)** – Descripción breve del proyecto en una frase.
-
+- **[Nombre del proyecto 2](https://github.com/TU_USUARIO/proyecto-2)** – .
+Actulmente lo estoy pensando en Proceso!!
 ---
 
 ## 📫 Contacto
